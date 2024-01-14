@@ -1,4 +1,4 @@
-## CRIAÇÃO lAYOUT - DOCUMENTAÇÃO
+## CRIAÇÃO LAYOUT - DOCUMENTAÇÃO
 
 Este projeto consiste em uma página HTML e um estilo CSS que implementam um layout de um sistema de lista de tarefas e informações do usuário. A estrutura principal é dividida em duas seções: nav (navegação do usuário) e main (conteúdo principal).
 
